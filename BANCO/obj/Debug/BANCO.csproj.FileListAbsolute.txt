@@ -1,0 +1,41 @@
+C:\Users\itiel\source\repos\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\itiel\source\repos\BANCO\BANCO\bin\Debug\BANCO.xml
+C:\Users\itiel\source\repos\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\itiel\source\repos\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.csproj.AssemblyReference.cache
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.CalendarioPago.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.Cliente.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.Credito.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.Cuenta.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.Form1.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.Movimiento.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.Resources.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.Pago.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.Sucursal.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.Tablas.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.TipoCredito.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.TipoCuenta.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.TipoMovimiento.resources
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.cache
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.csproj.CoreCompileInputs.cache
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\itiel\source\repos\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.csprojAssemblyReference.cache
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.CalendarioPago.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.Cliente.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.Credito.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.Cuenta.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.Form1.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.Movimiento.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.Resources.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.Pago.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.Sucursal.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.Tablas.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.TipoCredito.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.TipoCuenta.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.TipoMovimiento.resources
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.csproj.GenerateResource.cache
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.csproj.CoreCompileInputs.cache
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.exe
+C:\Users\itiel\source\repos\BANCO - copia\BANCO\obj\Debug\BANCO.pdb
